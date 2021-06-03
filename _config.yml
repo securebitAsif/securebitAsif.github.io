@@ -135,10 +135,10 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+ defaults:
+   home:
+     heading: "Cloud, Infrastructure and Security Blog"
+     subheading: "By Reza Asif, IT Security consultant"
 #     banner: "Your image url"
 
 # Excerpt size setting
