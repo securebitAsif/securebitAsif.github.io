@@ -1,7 +1,19 @@
+layout: post
+title: An exhibit of Markdown
+subtitle: Each post also has a subtitle
+categories: markdown
+tags: [example, markdown]
+
 ---
 layout: post
-title: "das ist mein erster test"
-categories: misc
+title: "My very first Blog entry"
+categories: cloud
+tags: [security, cloud, bigdata]
 ---
 
-Testing an article
+This is some random text.
+This is some random text.This is some random text.v
+
+vThis is some random text.This is some random text.This is some random text.This is some random text.
+This is some random text.
+vThis is some random text.vThis is some random text.vThis is some random text.
